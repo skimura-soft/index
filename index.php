@@ -6,7 +6,7 @@
     <meta name="viewport" content="width=device-width">
     <title>I Love You Kak>_< - kalteng cyber xploit</title>
     <link rel="preconnect" href="https://fonts.googleapis.com"><link rel="preconnect" href="https://fonts.gstatic.com" crossorigin><link href="https://fonts.googleapis.com/css2?family=Quicksand&display=swap" rel="stylesheet">
-    <link href="/style.css" rel="stylesheet" type="text/css" />
+    <link href="css/style.css" rel="stylesheet" type="text/css" />
 <script src="https://cdn.jsdelivr.net/npm/sweetalert2@11.0.19/dist/sweetalert2.all.min.js"></script>
   </head>
   <body>
@@ -26,7 +26,7 @@
 <a id="whs" class="button whatsapp" onClick="bukaWa2();"><i class="icon whatsapp"></i>Kirim Pesan</a>
 </div>
 
-    <script src="/script.js"></script>
+    <script src="js/script.js"></script>
     <script type="text/javascript">
             var author = 'Aku';
             var today = new Date();var date = today.getDate()+'/'+(today.getMonth()+1)+'/'+today.getFullYear()+'.';var dateTime = date;
